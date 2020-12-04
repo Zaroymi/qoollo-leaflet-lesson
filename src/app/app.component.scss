@@ -1,9 +1,10 @@
 :host {
     width: 100%;
-    height: 100%; 
-    
-    app-map {
-        width: 100%;
-        height: 100%;
-    }
+    height: 100%;
+    display: flex;
+}
+
+app-map {
+    width: 100%;
+    height: 100%;
 }
